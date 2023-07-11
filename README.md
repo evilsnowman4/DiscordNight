@@ -28,7 +28,7 @@ Matching colored underlines for member list roles requires the [**BetterRoleColo
 
 # Customizing the theme
 
-DiscordNight has certain unique variables that can easily be modified to change the visibility and width of certain elements. The code can either be added to the **DiscordNight.theme.css** or the **Custom CSS** menu in Discord settings:
+DicordNight has certain unique variables that can easily be modified to change the visibility and width of certain elements. The code can either be added to the **DiscordNight.theme.css** or the **Custom CSS** menu in Discord settings:
 
 ```css
 :root {
